@@ -38,8 +38,11 @@ Análise exploratória de dados históricos de vendas de jogos de videogame (at�
 
 ### Principais resultados
 📊 **Gêneros mais lucrativos:** Ação, Esportes e Shooter lideram vendas globais.
+
 🌎 **Diferenças regionais:** RPGs são populares no Japão, enquanto Action dominam nas Américas.
+
 🎮 **Plataformas:** PS3, PS4 e Xbox One tiveram maior volume de vendas.
+
 ⭐ **Avaliações:** Jogos com nota acima de 85% em críticas tendem a ter melhor desempenho comercial.
 
 ### Visualizações-chave
