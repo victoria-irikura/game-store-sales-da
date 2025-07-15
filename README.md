@@ -3,7 +3,7 @@
 ## Descrição do Projeto
 Análise exploratória de dados históricos de vendas de jogos de videogame (até 2016) para a loja online Ice, com o objetivo de identificar padrões associados ao sucesso de jogos.
 
-**Contexto:** Este projeto integrador foi desenvolvido durante o bootcamp de Análise de Dados da [Nome da Instituição].
+**Contexto:** Este projeto integrador foi desenvolvido durante o bootcamp de Análise de Dados da Tripleten.
 
 ## Objetivos
 ✅ Identificar fatores que influenciam o sucesso de jogos (ex.: gênero, plataforma, avaliações).
